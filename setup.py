@@ -22,6 +22,7 @@ with io.open('HISTORY.rst', 'r', encoding='utf8') as f:
 
 REQUIREMENTS = [
     "fs~=2.0.7",
+    "fs-s3fs",
     "requests"
 ]
 
